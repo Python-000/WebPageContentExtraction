@@ -1,11 +1,14 @@
 => USE PYTHON 2.X
 
-=> IN CMD
+=> INSTALL
 
 	>pip install bs4
 	>pip install nltk
 	>pip install lxml
-	>python
+
+
+=> IN PYTHON SHELL
+
 	>>> import nltk
 	>>> nltk.download('stopwords')
 
